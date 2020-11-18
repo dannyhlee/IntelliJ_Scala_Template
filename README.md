@@ -1,0 +1,1 @@
+# IntelliJ_Scala_Template
